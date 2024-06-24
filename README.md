@@ -1,4 +1,4 @@
-# Imps - Impact Measurement Protocols
+# Scaffold Eth 2 - Grant Stack SDK
 
 🤖 Built using Scaffold-Eth-2 
 
